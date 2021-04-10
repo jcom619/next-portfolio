@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-!["giph"]("https://media0.giphy.com/media/k8aCl2VvSeBlRvL7Yf/giphy.gif?cid=5e214886e3f1cd8438916df65ae041619e6ef6ba7a5f5a09&rid=giphy.gif&ct=g")
+!["giph"]("GIF image-45C8A41BA85A-1.gif")
 First, run the development server:
 
 ```bash
